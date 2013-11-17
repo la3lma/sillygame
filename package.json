@@ -15,4 +15,7 @@
   "bugs": {
     "url": "https://github.com/la3lma/sillygame/issues"
   }
+  "scripts": {
+     "start": "beefy game.js:bundle.js --live"
+  }
 }
